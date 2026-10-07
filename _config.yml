@@ -1,0 +1,10 @@
+# User site for hieu9721 — hosts public pages for apps whose source repos are
+# private. GitHub Pages on the Free plan only serves public repos.
+#
+# moto-note-app/ is a published copy of docs/ from the private repo
+# hieu9721/moto-note-app (source of truth). Its permalinks carry the
+# /moto-note-app/ prefix so the URL the app hard-codes
+# (https://hieu9721.github.io/moto-note-app/privacy-policy) stays unchanged.
+title: hieu9721
+theme: jekyll-theme-minimal
+markdown: kramdown
